@@ -1,0 +1,33 @@
+.about {
+    margin-top: 56px;
+    min-height: calc(100vh - 56px);
+}
+
+.about-brand {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 100px;
+}
+
+.about-musician {
+    text-align: center;
+}
+
+.About-brand-name {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.about-musician-details {
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.musician-info-bg {
+    background-color: rgb(27, 30, 21);
+    border-radius: 200px;
+}
+
+.musician-info {
+    padding: 20px 0;
+    width: 700px;
+}

@@ -1,0 +1,19 @@
+.homepage {
+    margin-top: 56px;
+}
+
+.home-container {
+    /* background-color: rgba(32, 190, 218, 0.479); */
+    min-height: calc(100vh - 56px);
+}
+
+.brand {
+    font-size: 6rem;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.service-btn {
+    background-color: rgb(35, 40, 27);
+    color: white;
+    font-style: italic;
+}

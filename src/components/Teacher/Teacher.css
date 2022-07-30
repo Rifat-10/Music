@@ -1,0 +1,28 @@
+.all-courses {
+    border-radius: 10px;
+    background-color: rgba(105, 91, 52, 0.9);
+    transition: 0.3s;
+}
+
+.all-courses:hover {
+    box-shadow: 1px 1px 20px gray;
+}
+
+.teacher-img {
+    width: 130px;
+    height: 130px;
+    border: 3px solid black;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.course-bg {
+    padding: 5px 0;
+    background-color: rgba(73, 64, 38, 0.9);
+    color: white;
+    border-radius: 50px;
+}
+
+.card-title {
+    color: white;
+}
